@@ -33,3 +33,5 @@
 - create a fresh next.js app (npx create-next-app@latest)
 - install shadcn ui (npx shadcn@latest init)
 - create a sign-in or sign-out page
+- create a sign-out button
+- Dark Mode toggle button
