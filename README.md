@@ -35,3 +35,11 @@
 - create a sign-in or sign-out page
 - create a sign-out button
 - Dark Mode toggle button
+
+
+## DAY-2
+
+- Create a free TiDB clustor for SQL DB
+- Create profile ,Channel ,Server ,Member Model 
+- prevent Hot reload for making new PrismaClient() agian and again in db.ts file
+- create a server join page if user is not join any page then redirect into this page
